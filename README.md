@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Syam Here, I like Node.js
